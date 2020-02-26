@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/02/26 15:33:18.389.txt,C:\Users\Divan\Documents\RAD Studio\Projects\New1.txt=C:\Users\Divan\Documents\textnum\numbers.txt</Transaction>
+    <Transaction>2020/02/26 15:41:09.491.pas,C:\Users\Divan\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Divan\Documents\textnum\frmnumbers_u.pas</Transaction>
+    <Transaction>2020/02/26 15:41:09.491.dfm,C:\Users\Divan\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Divan\Documents\textnum\frmnumbers_u.dfm</Transaction>
+    <Transaction>2020/02/26 15:41:17.444.dproj,C:\Users\Divan\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Divan\Documents\textnum\frmnumbers_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
